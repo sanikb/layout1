@@ -67,6 +67,8 @@
 @media (max-width:500px) {
     .maincontainer{
         flex-direction: column;
+        padding: 10px 0px;
+
       
     } 
     .leftbox{
